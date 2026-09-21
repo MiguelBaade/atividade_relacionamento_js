@@ -5,7 +5,6 @@ class Pessoa {
     }
 
     consultarDados() {}
-
     atualizarDados() {}
 }
 
@@ -17,13 +16,9 @@ class Usuario extends Pessoa {
     }
 
     cadastrar() {}
-
     consultar() {}
-
     atualizar() {}
-
     excluir() {}
-
     realizarEmprestimo() {}
 }
 
@@ -36,11 +31,8 @@ class Funcionario extends Pessoa {
     }
 
     cadastrar() {}
-
     consultar() {}
-
     atualizar() {}
-
     excluir() {}
 }
 
@@ -53,11 +45,8 @@ class Livro {
     }
 
     cadastrar() {}
-
     consultar() {}
-
     atualizar() {}
-
     excluir() {}
 }
 
@@ -69,13 +58,9 @@ class Emprestimo {
     }
 
     cadastrar() {}
-
     consultar() {}
-
     atualizar() {}
-
     excluir() {}
-
     registrarDevolucao() {}
 }
 
